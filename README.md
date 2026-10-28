@@ -14,10 +14,6 @@ A hands-on cybersecurity lab focused on detecting suspicious login activity usin
 - Custom XML rules and decoders
 - MITRE ATT&CK
 
-### Screenshots
-
-![Wazuh Detection Lab](wazuh-cover.png)
-
 ### Key Learning
 Turning raw authentication logs into meaningful security alerts for investigation.
 
